@@ -1,7 +1,7 @@
 # 📱 Hello World — Pemrograman Mobile Android
 ## Minggu 1 | Semester 6
 
-![Screenshot Aplikasi](screenshot.png)
+![Screenshot Aplikasi](img.png)
 
 ---
 
