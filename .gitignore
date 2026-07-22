@@ -1,0 +1,29 @@
+# Built-in Android Studio
+.gradle/
+.idea/
+build/
+app/build/
+*.iml
+*.hprof
+.DS_Store
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Caches
+*.tmp
+*.bak
+*.swp
+*~
+.project
+.classpath
+.settings/
+.factorypath
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

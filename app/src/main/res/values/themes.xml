@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.HelloWorld" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Semua theming dilakukan via Jetpack Compose Material3 di Theme.kt -->
+    </style>
+</resources>
